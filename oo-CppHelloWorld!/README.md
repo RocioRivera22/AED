@@ -19,6 +19,7 @@ Windows PowerShell:
 .\hello.exe > output.txt
 
 4.1. Objetivos
+
 Demostrar, que con un programa simple, está en capacidad de editar, compilar, y ejecutar un programa C++.
 
 4.2. Temas
@@ -29,9 +30,11 @@ Proceso de compilación.
 Pruebas.
 
 4.3. Problema
+
 Adquirir recursos necesarios y prepararlos para resolver los trabajos que se proponen.
 
 4.4. Restricciones
+
 Ninguna
 
 4.5. Tarea
