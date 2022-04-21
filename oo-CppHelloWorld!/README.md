@@ -22,6 +22,7 @@ Windows PowerShell:
 Demostrar, que con un programa simple, está en capacidad de editar, compilar, y ejecutar un programa C++.
 
 4.2. Temas
+
 Sistema de control de versiones.
 Lenguaje de programación C++.
 Proceso de compilación.
